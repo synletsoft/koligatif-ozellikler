@@ -1,0 +1,2 @@
+# koligatif-ozellikler
+
