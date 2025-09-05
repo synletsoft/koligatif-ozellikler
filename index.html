@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Yapım Aşamasında</title>
+  <style>
+    /* Genel sıfırlama */
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background: #ffffff;
+      font-family: Arial, sans-serif;
+    }
+
+    .container {
+      width: 100%;
+      max-width: 1200px;
+      padding: 10px;
+    }
+
+    .container img {
+      width: 100%;
+      height: auto;
+      display: block;
+      border-radius: 8px;
+    }
+
+    /* Küçük cihazlarda (mobil) */
+    @media (max-width: 600px) {
+      body {
+        background: #fff;
+      }
+      .container {
+        padding: 5px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <img src="yapim.png" alt="Uygulama Yapım Aşamasında">
+  </div>
+
+  <script>
+    // Basit örnek JS: görselin yüklenip yüklenmediğini kontrol eder
+    document.addEventListener("DOMContentLoaded", function() {
+      const img = document.querySelector("img");
+      img.addEventListener("load", () => {
+        console.log("Görsel başarıyla yüklendi.");
+      });
+    });
+  </script>
+</body>
+</html>
