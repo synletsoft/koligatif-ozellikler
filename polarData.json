@@ -1,0 +1,62 @@
+[
+  {
+    "molekulTitle": 0, 
+    "molekulPolarlik": 0, 
+    "cozunme": 0
+  },
+  {
+    "molekulTitle": 1, 
+    "molekulPolarlik": 1, 
+    "cozunme": 1
+  }, 
+  {
+    "molekulTitle": 2, 
+    "molekulPolarlik": 1, 
+    "cozunme": 1
+  }, 
+  {
+    "molekulTitle": 3, 
+    "molekulPolarlik": 0, 
+    "cozunme": 0
+  }, 
+  {
+    "molekulTitle": 4, 
+    "molekulPolarlik": 0, 
+    "cozunme": 0
+  }, 
+  {
+    "molekulTitle":5, 
+    "molekulPolarlik": 1, 
+    "cozunme": 1
+  }, 
+  {
+    "molekulTitle": 6, 
+    "molekulPolarlik": 2, 
+    "cozunme": 0
+  }, 
+  {
+    "molekulTitle": 7, 
+    "molekulPolarlik": 1, 
+    "cozunme": 1
+  }, 
+  {
+    "molekulTitle": 8, 
+    "molekulPolarlik": 2, 
+    "cozunme": 0
+  }, 
+  {
+    "molekulTitle": 9, 
+    "molekulPolarlik": 2, 
+    "cozunme": 0
+  }, 
+  {
+    "molekulTitle": 10, 
+    "molekulPolarlik": 2, 
+    "cozunme": 0
+  }, 
+  {
+    "molekulTitle": 11, 
+    "molekulPolarlik": 0, 
+    "cozunme": 0
+  } 
+]
